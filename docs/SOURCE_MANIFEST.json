@@ -1,0 +1,20 @@
+[
+  {
+    "published": "notebooks/01_3dgs_visual_reconstruction.ipynb",
+    "source_filename": "Cópia_de_GaussianSplating (1).ipynb",
+    "source_sha256": "413f3b93f9bb1f265ea8cd24a435f239ee852d2551dac92b5a07f323cbca5e93",
+    "preparation": "Curated core Truck workflow; setup reordered, paths named, duplicate/debug/tutorial/viewer cells omitted, outputs cleared. Training remains 30,000 iterations. No new GPU execution."
+  },
+  {
+    "published": "notebooks/02_rf_3dgs_radio_reconstruction.ipynb",
+    "source_filename": "RF_3DGS.ipynb",
+    "source_sha256": "1b53765dad3177c0ed066acb30277747de7e3c6ae2242ff456b6d63054c456ec",
+    "preparation": "Core setup, checkpoint loading, 40,000-iteration endpoint, rendering and export retained; paths parameterized, duplicate probes and outputs removed. Fresh markdown. No new GPU execution."
+  },
+  {
+    "published": "notebooks/03_wrfgs_plus_wireless_experiment.ipynb",
+    "source_filename": "WRFGS_Fullroom_Colab.ipynb",
+    "source_sha256": "8aa2b82024808fc9fdcc1fd979b8ffc967b9ff7daccef467e28516db3520bb0f",
+    "preparation": "All 12 original code cells preserved verbatim; fresh explanatory markdown and clean metadata; outputs cleared. External room package not included."
+  }
+]
